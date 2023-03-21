@@ -1,0 +1,19 @@
+.outside {
+    width: 100%;
+    height: 100%;
+    margin:0px;
+    padding:0px;
+}
+
+.boxSide {
+    animation: boxside 1s ease-out;
+}
+
+@keyframes boxside{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
