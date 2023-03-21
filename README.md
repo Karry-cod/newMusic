@@ -15,3 +15,11 @@ The technology stack of the project include vue3 , vite , element-plue , js-cook
 我打包为何失败的话，希望可以给我提点建议，哈哈，感谢不尽！！
 
 之后我会补足介绍文档的，希望各位多多支持，有bug的话，可以提到issues里哦，再次谢谢各位啦！
+
+# 运行
+  1. 先启动后端服务
+     ①. 进入NeteaseCloudMusicApi/后，执行yarn 或者 npm installl 安装依赖；
+     ②. 执行node index.js
+  2. 启动前端项目
+     ①. 进入NewMusic.PC/后，执行 yarn 或者 npm install 安装依赖；
+     ②. 执行npm run dev 或 yarn dev
